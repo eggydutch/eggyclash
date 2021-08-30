@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowtv.now.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN,hktv-93446.firebaseio.com
+  - DOMAIN-SUFFIX,utvlive.top
+  - DOMAIN-SUFFIX,mott.cdn.cmi.chinamobile.com
+  - DOMAIN-SUFFIX,mott.tv
+  - DOMAIN-SUFFIX,i-cable.com
+  - DOMAIN-SUFFIX,anders.hk
+  - IP-CIDR,202.1.2.226/32
+  - IP-CIDR,218.102.11.67/32
+  - IP-CIDR,219.76.26.241/32
+  - IP-CIDR,61.10.2.137/32
