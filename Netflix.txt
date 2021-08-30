@@ -1,4 +1,4 @@
-payload
+payload:
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX.com
   - DOMAIN-SUFFIX.net
