@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-SUFFIX,epochweekly.com
+  - DOMAIN-SUFFIX,ntdtv.com
+  - DOMAIN-SUFFIX,mingjingnews.com
+  - DOMAIN-SUFFIX,secretchina.com
+  - DOMAIN-SUFFIX,bannedbook.org
+  - DOMAIN-SUFFIX,inmediahk.net
+  - DOMAIN-SUFFIX,creaders.net
+  - DOMAIN-SUFFIX,aboluowang.com
+  - DOMAIN-SUFFIX,tuidang.org
+  - DOMAIN-SUFFIX,wujieliulan.com
+  - DOMAIN-SUFFIX,dongtaiwang.com
+  - DOMAIN-SUFFIX,proxyrarbg.org
