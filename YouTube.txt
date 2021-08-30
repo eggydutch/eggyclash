@@ -1,4 +1,4 @@
-payload
+payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gvt1.com
