@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX-cloudkit.com
   - DOMAIN-SUFFIX.co
   - DOMAIN-SUFFIX.com
-  - DOMAIN-SUFFIX.com.cn,DIRECT
+  - DOMAIN-SUFFIX.com.cn
   - DOMAIN-SUFFIX.news
   - DOMAIN-SUFFIX,appstore.com
   - DOMAIN-SUFFIX,cdn-apple.com
