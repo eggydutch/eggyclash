@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN-SUFFIX,media.fantv.hk
+  - DOMAIN-SUFFIX,live.cdn.hk01.com
   - IP-CIDR,202.1.2.226/32
   - IP-CIDR,218.102.11.67/32
   - IP-CIDR,219.76.26.241/32
