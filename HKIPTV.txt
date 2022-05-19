@@ -8,6 +8,21 @@ payload:
   - DOMAIN-SUFFIX,mott.tv
   - DOMAIN-SUFFIX,i-cable.com
   - DOMAIN-SUFFIX,anders.hk
+  - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,viu.now.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,pccw-cf-epl.akamaized.net
+  - DOMAIN-SUFFIX,pccw-cf-video.akamaized.net
+  - DOMAIN,d1k2us671qcoau.cloudfront.net
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net
+  - DOMAIN,d3o7oi00quuwqu.cloudfront.net
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,jwplayer.com
   - IP-CIDR,202.1.2.226/32
   - IP-CIDR,218.102.11.67/32
   - IP-CIDR,219.76.26.241/32
