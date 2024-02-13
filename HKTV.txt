@@ -29,3 +29,9 @@ payload:
   - IP-CIDR,218.102.11.67/32
   - IP-CIDR,219.76.26.241/32
   - IP-CIDR,61.10.2.137/32
+# > encoreTVB
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net
+  - DOMAIN,content.jwplatform.com
+  - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,videos-f.jwpsrv.com
+  - DOMAIN-SUFFIX,encoretvb.com
