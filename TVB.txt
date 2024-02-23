@@ -20,3 +20,8 @@ payload:
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN,encoretvb-app.s3-us-west-1.amazonaws.com
+  - DOMAIN,us-central1-encoretvb-firetv-chinese.cloudfunctions.net
+  - DOMAIN-SUFFIX,img.tvbaw.com
+  - DOMAIN,pmv4k0zsuc.execute-api.us-west-2.amazonaws.com
+  - DOMAIN-KEYWORD,encoretvb
