@@ -1,9 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowtv.now.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN,hktv-93446.firebaseio.com
   - DOMAIN-SUFFIX,utvlive.top
