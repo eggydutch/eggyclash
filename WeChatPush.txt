@@ -1,0 +1,8 @@
+payload:
+- DOMAIN-KEYWORD,long.wechat
+- DOMAIN-KEYWORD,long.weixin
+- DOMAIN-KEYWORD,short.wechat
+- DOMAIN-KEYWORD,short.weixin
+- DOMAIN-KEYWORD,extshort.weixin.qq.com
+- DOMAIN-KEYWORD,minorshort.weixin.qq.com
+- DOMAIN-KEYWORD,dns.weixin
